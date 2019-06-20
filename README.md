@@ -1,2 +1,2 @@
 # project-A-B-test
-Nanodegree, data analysis, Python
+This project uses Python to analyze the results of an A/B test. 
